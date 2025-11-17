@@ -125,11 +125,6 @@
   <ItemGroup>
     <ClCompile Include="LR 5.1.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\UnitTestLR05.1\UnitTestLR05.1.vcxproj">
-      <Project>{0784aff6-366a-c478-c0c8-597ac2ade265}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
